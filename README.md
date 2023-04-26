@@ -3,7 +3,7 @@
     <a href="https://www.instagram.com/ssong_ye_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://velog.io/@qqq3964" target="_blank"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yewon-song-95178520a/" target="_blank"><img src="https://img.shields.io/badge/YewonSong-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:qqq3964@konkuk.ac.kr" target="_blank"><img src="https://img.shields.io/badge/qqq3964@konkuk.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:gorani@konkuk.ac.kr" target="_blank"><img src="https://img.shields.io/badge/gorani@konkuk.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
