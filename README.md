@@ -16,20 +16,19 @@
 </p>
 
 ### 💼 Career
-#### ● Graduated Konkuk University (2018.02-2024.02)
-#### ● SKT FLY AI Challenger (2022.12-2023.03)
-#### ● LG Aimers (2022.01-2023.03)
-#### ● Kaist Micro Degree (2022.10-2023.04)
+#### ● Graduated Konkuk University (2020.02-2024.08)
+
 <br/>
 
 ### ✉️ Certificate
 #### ● Microsoft ai-900
+
 <br/>
 
 
 ### ✉️ English Certificate
 #### ● Toeic 960
-#### ● OpIc IH
+#### ● Opic  IH
 <br/>
 
 ### ⭐ Algorithm skills
