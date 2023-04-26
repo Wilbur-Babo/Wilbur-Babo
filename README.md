@@ -1,8 +1,8 @@
 ### 🤩 Nice way to meet me
 <p>
-    <a href="https://www.instagram.com/taewan1554/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/ssong_ye_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://velog.io/@qqq3964" target="_blank"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/taewan-kim-259a05205/" target="_blank"><img src="https://img.shields.io/badge/TaewanKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yewon-song-95178520a/" target="_blank"><img src="https://img.shields.io/badge/TaewanKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:qqq3964@konkuk.ac.kr" target="_blank"><img src="https://img.shields.io/badge/qqq3964@konkuk.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
@@ -15,18 +15,18 @@
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
-### 💼 Carrer
+### 💼 Career
 #### ● Graduated Konkuk University (2018.02-2024.02)
 #### ● SKT FLY AI Challenger (2022.12-2023.03)
 #### ● LG Aimers (2022.01-2023.03)
 #### ● Kaist Micro Degree (2022.10-2023.04)
 <br/>
 
-### ✉️ certificate
+### ✉️ Certificate
 #### ● Microsoft ai-900
 <br/>
 
-### ⭐ algoritm skills
+### ⭐ Algorithm skills
 #### [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aa3964)](https://solved.ac/aa3964/)
 <br/>
 
